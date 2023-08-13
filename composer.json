@@ -64,11 +64,7 @@
     },
     "config": {
         "sort-packages": true
-    },
-    "repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/metaversedataman/laravel-befriended"
-    }
-]
+    },    
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
